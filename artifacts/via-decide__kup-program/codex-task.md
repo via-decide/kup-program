@@ -1,6 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
+Design the three Founder Outcome Paths. PATH 1: INFRASTRUCTURE STARTUP
+
+CONSTRAINTS
+All three paths must be viable from Month 1 MVP (no path should be blocked). Founders should have optionality (can switch paths post-Month 1). Each path should excite a different founder archetype (builder vs. researcher vs. infrastructure nerd).
 Create the three stakeholder narratives & outreach templates. GOVERNMENT NARRATIVE (NHAI, Gujarat State Transport):
 
 CONSTRAINTS

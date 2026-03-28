@@ -1,3 +1,9 @@
+Branch: simba/design-the-three-founder-outcome-paths-path-1-in
+Title: Design the three Founder Outcome Paths. PATH 1: INFRASTRUCTURE STARTUP
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: 30 founders have three genuine outcome paths. KUP captures all talent types.
 Branch: simba/create-the-three-stakeholder-narratives-outreach
 Title: Create the three stakeholder narratives & outreach templates. GOVERNM...
 
