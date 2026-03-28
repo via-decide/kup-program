@@ -1,3 +1,9 @@
+Branch: simba/create-the-three-stakeholder-narratives-outreach
+Title: Create the three stakeholder narratives & outreach templates. GOVERNM...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: KUP attracts the right audience at each stage: government by Week 2, investors by Week 4, researchers by Month 2.
 Branch: simba/integrate-the-5-decideengine-tools-into-kup-curr
 Title: Integrate the 5 decide.engine-tools into KUP curriculum as operationa...
 

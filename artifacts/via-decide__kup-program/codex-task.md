@@ -1,6 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
+Create the three stakeholder narratives & outreach templates. GOVERNMENT NARRATIVE (NHAI, Gujarat State Transport):
+
+CONSTRAINTS
+Each narrative must be <500 words. All narratives must be true but emphasize different angles.
 Integrate the 5 decide.engine-tools into KUP curriculum as operational tools.
 
 CONSTRAINTS
