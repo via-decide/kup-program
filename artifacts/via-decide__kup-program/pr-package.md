@@ -1,3 +1,9 @@
+Branch: simba/design-the-week-by-week-kpi-dashboard-week-1-kpi
+Title: Design the Week-by-Week KPI Dashboard. WEEK 1 KPIs: Charter complete ...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: Radical transparency. Founders know exactly how they're tracking against the "Ruthless Sprint" plan.
 Branch: simba/create-the-founder-matching-team-composition-fra
 Title: Create the Founder Matching & Team Composition Framework. SURVEY all ...
 

@@ -1,6 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
+Design the Week-by-Week KPI Dashboard. WEEK 1 KPIs: Charter complete (% of teams with signed charter) Data readiness score (% of teams with >0.7 readiness) Mentor onboarding (% mentors with 1 scheduled call) Founder mood (% reporting mood >3/5) WEEK 2 KPIs: Data pipeline operational (% of teams with data flowing end-to-end) Feature extraction complete (# features extracted per team) Labeling consensus (% inter-annotator agreement) No burnout incidents (founder mood unchanged) WEEK 3 KPIs: Model accuracy (baseline >70%, target >80%) Scenario 2 test passed (% teams achieving post-drift accuracy >70%) Drift detection deployed (% teams with Evidently AI monitoring) False positive rate <20% WEEK 4 KPIs: MVP complete (working system end-to-end) Documentation complete (GitHub repos, API docs, deployment guides) Demo day ready (all 3 paths with 2-min pitches) Research outputs (KTA dataset live, paper outline drafted) Founder satisfaction (exit survey) Create a public dashboard (shared Google Sheet + Grafana view) so all founders see progress.
+
+CONSTRAINTS
+KPIs must be measurable by Friday 5 PM each week. Dashboard must update automatically (GitHub metrics, model evaluations).
 Create the Founder Matching & Team Composition Framework. SURVEY all 30 founders (pre-program):
 
 CONSTRAINTS
