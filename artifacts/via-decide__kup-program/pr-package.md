@@ -1,3 +1,9 @@
+Branch: simba/integrate-the-5-decideengine-tools-into-kup-curr
+Title: Integrate the 5 decide.engine-tools into KUP curriculum as operationa...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: By Week 4, founders have a complete content + communication package ready for launch.
 Branch: simba/define-the-failure-tolerance-ceiling-pivot-trigg
 Title: Define the "Failure Tolerance Ceiling" & pivot triggers. HARD METRICS...
 
