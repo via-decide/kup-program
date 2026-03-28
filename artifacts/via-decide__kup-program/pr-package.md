@@ -1,3 +1,9 @@
+Branch: simba/define-the-failure-tolerance-ceiling-pivot-trigg
+Title: Define the "Failure Tolerance Ceiling" & pivot triggers. HARD METRICS...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: Founders know they won't be pressured to solve impossible problems. Clear permission to pivot.
 Branch: simba/design-the-energy-management-framework-for-month
 Title: Design the "Energy Management Framework" for Month 1. Create a weekly...
 
