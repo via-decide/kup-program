@@ -1,3 +1,9 @@
+Branch: simba/create-the-mentor-assignment-rotation-framework-
+Title: Create the mentor assignment + rotation framework. Identify 3 mentor ...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: Mentorship system that scales to 30 founders without overloading mentors.
 Branch: simba/design-the-ruthless-sprint-schedule-for-month-1-
 Title: Design the "Ruthless Sprint" schedule for Month 1. Week 1: Problem de...
 
