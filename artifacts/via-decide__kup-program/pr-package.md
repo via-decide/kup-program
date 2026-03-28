@@ -1,3 +1,9 @@
+Branch: simba/create-the-post-month-1-roadmap-months-2-12-mont
+Title: Create the Post-Month-1 Roadmap (Months 2-12). MONTH 2: Pilot Deploym...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: Founders have a clear 12-month vision. KUP is not a 1-month bootcamp; it's the start of 12-month momentum.
 Branch: simba/design-the-week-by-week-kpi-dashboard-week-1-kpi
 Title: Design the Week-by-Week KPI Dashboard. WEEK 1 KPIs: Charter complete ...
 
