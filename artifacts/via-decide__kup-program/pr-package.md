@@ -1,3 +1,9 @@
+Branch: simba/create-the-founder-matching-team-composition-fra
+Title: Create the Founder Matching & Team Composition Framework. SURVEY all ...
+
+## Summary
+- Repo orchestration task for via-decide/kup-program
+- Goal: Optimal founder-to-path matching. Retention + satisfaction.
 Branch: simba/design-the-three-founder-outcome-paths-path-1-in
 Title: Design the three Founder Outcome Paths. PATH 1: INFRASTRUCTURE STARTUP
 

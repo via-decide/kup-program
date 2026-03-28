@@ -4,6 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
+Create the Founder Matching & Team Composition Framework. SURVEY all 30 founders (pre-program):
 Design the three Founder Outcome Paths. PATH 1: INFRASTRUCTURE STARTUP
 Create the three stakeholder narratives & outreach templates. GOVERNMENT NARRATIVE (NHAI, Gujarat State Transport):
 Integrate the 5 decide.engine-tools into KUP curriculum as operational tools.

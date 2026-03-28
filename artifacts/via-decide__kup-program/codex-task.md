@@ -1,6 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
+Create the Founder Matching & Team Composition Framework. SURVEY all 30 founders (pre-program):
+
+CONSTRAINTS
+Teams must be mixed (no homogeneous groups). No team should be <8 or >12 people.
 Design the three Founder Outcome Paths. PATH 1: INFRASTRUCTURE STARTUP
 
 CONSTRAINTS
