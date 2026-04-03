@@ -1,9 +1,9 @@
-Branch: simba/implement-the-daily-standup-bot-in-srcopsstandup
-Title: Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot...
+Branch: simba/build-the-high-signal-kpi-dashboard-in-srcopsdas
+Title: Build the 'High-Signal KPI Dashboard' in src/ops/dashboard-viz.js. [s...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot must ping each founder every morning on Telegram. It should ask: 1) What was your "Decision Budget" spend yesterday? 2) What is your "Scenario 2" blocker? [span_3](start_span)3) What is your Energy Level (1-10)?[span_3](end_span)
+- Goal: Build the 'High-Signal KPI Dashboard' in src/ops/dashboard-viz.js. [span_6](start_span)This dashboard must track: 1) Total simulated vehicle passages (Target: 1M), 2) Average model accuracy across all 30 founders (Target: >80%), and 3) Research citations/Hugging Face downloads [cite: 16-17, 21].
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
