@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Shadow-Bill Dispatcher' in src/ops/shadow-billing.js. At 9:00 PM IST daily, calculate the total tokens used by each founder and multiply by the standard Zayvora rate. Send a Telegram message: "Today's Compute Value: ₹[X]. Your Cost: ₹0. (Don't waste the mission's energy)."
+Build the 'Scope-Lock Validator' in src/ops/pr-validator.js. Create a GitHub Action that automatically reviews Week 1 PRs. It must check for: 1) A finalized 'Reference Architecture', 2) A defined 'Scenario 2' failure metric, and 3) A 'Decision Budget' audit for the week.
 
 RULES
 1. Audit touched files first and identify regressions.
