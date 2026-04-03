@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Graduation Handover' service in src/ops/graduation.js. For every founder who passes the 'Milestone Gates', generate a "Sovereign IP Pack" containing: 1) Their fine-tuned Vora model weights, 2) Their 1-km site topology, and 3) Their drafted Research/Grant proposals.
+Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP-Pulse' energy levels, the bot should send automated, path-specific encouragement. If a Research Path founder gets a "Paper Rejected" simulation, the bot should provide a "Sovereign Pivot" pep talk.
 
 CONSTRAINTS
-Log the official transition in the 'Success State Monitor'. The 'Sprint Master' must send a final "Jai Hanuman" celebratory dispatch to the founder via Telegram.
+No generic "AI positivity." The messages must be grounded in the Strategic Framework's mission: "Building Bharat's Infrastructure."
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
