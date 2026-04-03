@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Success State Monitor' in src/analytics/path-goals.js. Develop a service that tracks the 12-month KPIs for all three founder paths.
+Implement the 'KUP-Pulse' collector in src/ops/pulse-monitor.js. Create a Telegram-integrated check-in that asks founders for: 1) Mental Energy (1-10), 2) Physical Energy (1-10), and 3) Decisions Made Today.
 
 RULES
 1. Audit touched files first and identify regressions.
