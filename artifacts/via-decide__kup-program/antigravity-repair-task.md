@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automatically aggregate the 'Hysteresis' logs and 'Thermal-Expansion' math into a formal PDF report.
+Execute the 'Production-Hardening' script in src/ops/finalize-release.js. Strip debug logs, minify edge assets, and generate the 'Sovereign v1.0' API documentation.
 
 RULES
 1. Audit touched files first and identify regressions.

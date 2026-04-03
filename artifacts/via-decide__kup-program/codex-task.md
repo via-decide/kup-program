@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automatically aggregate the 'Hysteresis' logs and 'Thermal-Expansion' math into a formal PDF report.
+Execute the 'Production-Hardening' script in src/ops/finalize-release.js. Strip debug logs, minify edge assets, and generate the 'Sovereign v1.0' API documentation.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+- Automate the generation of a 'Terms of Service' (ToS) that enforces the ONDC settlement rules. - Log "SYSTEM GRADUATED: KUP-AI-STACK_V1.0_PROD_READY".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
