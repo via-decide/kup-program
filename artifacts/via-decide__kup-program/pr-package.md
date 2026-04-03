@@ -1,9 +1,9 @@
-Branch: simba/implement-the-task-dispatcher-in-srcnotification
-Title: Implement the 'Task Dispatcher' in src/notifications/telegram-manager...
+Branch: simba/create-the-outcome-path-manager-in-srcteamspath-
+Title: Create the 'Outcome Path Manager' in src/teams/path-selector.js. Impl...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Task Dispatcher' in src/notifications/telegram-manager.js. Connect the backend to a Telegram Bot API. [span_7](start_span)[span_8](start_span)Create a function that sends "Week 1-4 Task Cards" to founders based on their outcome path (Infrastructure, Research, or Edge Platform)[span_7](end_span)[span_8](end_span).
+- Goal: Create the 'Outcome Path Manager' in src/teams/path-selector.js. Implement a logic gate that assigns specific "Advanced Task Cards" to founders based on their chosen path.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
