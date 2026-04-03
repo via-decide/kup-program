@@ -1,9 +1,9 @@
-Branch: simba/build-the-morale-engine-in-srcopsspirit-botjs-ba
-Title: Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP...
+Branch: simba/build-the-shadow-bill-dispatcher-in-srcopsshadow
+Title: Build the 'Shadow-Bill Dispatcher' in src/ops/shadow-billing.js. At 9...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP-Pulse' energy levels, the bot should send automated, path-specific encouragement. If a Research Path founder gets a "Paper Rejected" simulation, the bot should provide a "Sovereign Pivot" pep talk.
+- Goal: Build the 'Shadow-Bill Dispatcher' in src/ops/shadow-billing.js. At 9:00 PM IST daily, calculate the total tokens used by each founder and multiply by the standard Zayvora rate. Send a Telegram message: "Today's Compute Value: ₹[X]. Your Cost: ₹0. (Don't waste the mission's energy)."
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

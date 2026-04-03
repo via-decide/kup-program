@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP-Pulse' energy levels, the bot should send automated, path-specific encouragement. If a Research Path founder gets a "Paper Rejected" simulation, the bot should provide a "Sovereign Pivot" pep talk.
+Build the 'Shadow-Bill Dispatcher' in src/ops/shadow-billing.js. At 9:00 PM IST daily, calculate the total tokens used by each founder and multiply by the standard Zayvora rate. Send a Telegram message: "Today's Compute Value: ₹[X]. Your Cost: ₹0. (Don't waste the mission's energy)."
 
 CONSTRAINTS
-No generic "AI positivity." The messages must be grounded in the Strategic Framework's mission: "Building Bharat's Infrastructure."
+Link this to the 'Energy Tracker'. If a founder has high usage but low output (no PRs), flag them for a "Efficiency Review" with a mentor.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
