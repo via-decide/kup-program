@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Weekly Sync Reporter' in src/ops/friday-sync.js. Aggregate the following: 1) Total 'Scenario 2' recoveries, 2) Median Founder Energy, 3) Revenue/Grant prospects logged, and 4) Jetson-Inference Benchmarks.
+Create the 'Graduation Handover' service in src/ops/graduation.js. For every founder who passes the 'Milestone Gates', generate a "Sovereign IP Pack" containing: 1) Their fine-tuned Vora model weights, 2) Their 1-km site topology, and 3) Their drafted Research/Grant proposals.
 
 CONSTRAINTS
-Format the output as a "Sovereign Executive Brief" and dispatch it to the Program Lead (Admin) via Telegram at 4:00 PM every Friday.
+Log the official transition in the 'Success State Monitor'. The 'Sprint Master' must send a final "Jai Hanuman" celebratory dispatch to the founder via Telegram.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
