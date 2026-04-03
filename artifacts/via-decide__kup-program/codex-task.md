@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot must ping each founder every morning on Telegram. It should ask: 1) What was your "Decision Budget" spend yesterday? 2) What is your "Scenario 2" blocker? [span_3](start_span)3) What is your Energy Level (1-10)?[span_3](end_span)
+Build the 'High-Signal KPI Dashboard' in src/ops/dashboard-viz.js. [span_6](start_span)This dashboard must track: 1) Total simulated vehicle passages (Target: 1M), 2) Average model accuracy across all 30 founders (Target: >80%), and 3) Research citations/Hugging Face downloads [cite: 16-17, 21].
 
 CONSTRAINTS
-Use the Sovereign theme to aggregate these responses into a 'Daily Pulse' report for the Program Lead. [span_4](start_span)If a founder reports a 'Decision Budget' > 3, flag them for potential burnout[span_4](end_span).
+The dashboard must be accessible only to the Admin role. [cite_start]Use a "Sovereign Dark" UI that emphasizes data quality over aesthetic fluff, aligning with the "Data-Centric AI" principle[span_6](end_span).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
