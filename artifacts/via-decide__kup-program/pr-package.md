@@ -1,9 +1,9 @@
-Branch: simba/create-the-success-state-monitor-in-srcanalytics
-Title: Create the 'Success State Monitor' in src/analytics/path-goals.js. De...
+Branch: simba/implement-the-kup-pulse-collector-in-srcopspulse
+Title: Implement the 'KUP-Pulse' collector in src/ops/pulse-monitor.js. Crea...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Create the 'Success State Monitor' in src/analytics/path-goals.js. Develop a service that tracks the 12-month KPIs for all three founder paths.
+- Goal: Implement the 'KUP-Pulse' collector in src/ops/pulse-monitor.js. Create a Telegram-integrated check-in that asks founders for: 1) Mental Energy (1-10), 2) Physical Energy (1-10), and 3) Decisions Made Today.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
