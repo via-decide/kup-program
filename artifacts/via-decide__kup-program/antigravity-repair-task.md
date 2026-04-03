@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Founder Handover Protocol' in src/ops/exit-strategy.js. [span_16](start_span)[span_17](start_span)This module generates the legal and technical "Data-Pack" for each of the three outcome paths, ensuring they have the code, datasets, and partner LOIs needed for independent growth [cite: 27-29].
+Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot must ping each founder every morning on Telegram. It should ask: 1) What was your "Decision Budget" spend yesterday? 2) What is your "Scenario 2" blocker? [span_3](start_span)3) What is your Energy Level (1-10)?[span_3](end_span)
 
 RULES
 1. Audit touched files first and identify regressions.
