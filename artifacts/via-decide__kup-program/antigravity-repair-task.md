@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create 'The Sprint Master' Agent Template in src/templates/sprint-master.json. Configure the system prompt to enforce the 4-week "Ruthless Sprint" timeline and manage founder decision budgets.
+Implement the 'Task Dispatcher' in src/notifications/telegram-manager.js. Connect the backend to a Telegram Bot API. [span_7](start_span)[span_8](start_span)Create a function that sends "Week 1-4 Task Cards" to founders based on their outcome path (Infrastructure, Research, or Edge Platform)[span_7](end_span)[span_8](end_span).
 
 RULES
 1. Audit touched files first and identify regressions.
