@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'KUP-Pulse' collector in src/ops/pulse-monitor.js. Create a Telegram-integrated check-in that asks founders for: 1) Mental Energy (1-10), 2) Physical Energy (1-10), and 3) Decisions Made Today.
+Create the 'Weekly Sync Reporter' in src/ops/friday-sync.js. Aggregate the following: 1) Total 'Scenario 2' recoveries, 2) Median Founder Energy, 3) Revenue/Grant prospects logged, and 4) Jetson-Inference Benchmarks.
 
 RULES
 1. Audit touched files first and identify regressions.
