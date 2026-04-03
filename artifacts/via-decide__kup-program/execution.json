@@ -1,16 +1,7 @@
 {
   "repo": "via-decide/kup-program",
   "mode": "codex_then_antigravity",
-  "branch": "simba/create-the-post-month-1-roadmap-months-2-12-mont",
-  "branch": "simba/design-the-week-by-week-kpi-dashboard-week-1-kpi",
-  "branch": "simba/create-the-founder-matching-team-composition-fra",
-  "branch": "simba/design-the-three-founder-outcome-paths-path-1-in",
-  "branch": "simba/create-the-three-stakeholder-narratives-outreach",
-  "branch": "simba/integrate-the-5-decideengine-tools-into-kup-curr",
-  "branch": "simba/define-the-failure-tolerance-ceiling-pivot-trigg",
-  "branch": "simba/design-the-energy-management-framework-for-month",
-  "branch": "simba/create-the-mentor-assignment-rotation-framework-",
-  "branch": "simba/design-the-ruthless-sprint-schedule-for-month-1-",
+  "branch": "simba/create-the-sprint-master-agent-template-in-srcte",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

@@ -1,46 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the Post-Month-1 Roadmap (Months 2-12). MONTH 2: Pilot Deployment - Deploy MVP to NHAI pilot site (1 km, single lane) - Real sensors (not simulated data) - Live vehicle scanning (target: 100+ vehicles/day)
+Create 'The Sprint Master' Agent Template in src/templates/sprint-master.json. Configure the system prompt to enforce the 4-week "Ruthless Sprint" timeline and manage founder decision budgets.
 
 CONSTRAINTS
-Roadmap must be data-driven (based on Month 1 metrics). Each path has independent KPIs (not forced to grow same way).
-Design the Week-by-Week KPI Dashboard. WEEK 1 KPIs: Charter complete (% of teams with signed charter) Data readiness score (% of teams with >0.7 readiness) Mentor onboarding (% mentors with 1 scheduled call) Founder mood (% reporting mood >3/5) WEEK 2 KPIs: Data pipeline operational (% of teams with data flowing end-to-end) Feature extraction complete (# features extracted per team) Labeling consensus (% inter-annotator agreement) No burnout incidents (founder mood unchanged) WEEK 3 KPIs: Model accuracy (baseline >70%, target >80%) Scenario 2 test passed (% teams achieving post-drift accuracy >70%) Drift detection deployed (% teams with Evidently AI monitoring) False positive rate <20% WEEK 4 KPIs: MVP complete (working system end-to-end) Documentation complete (GitHub repos, API docs, deployment guides) Demo day ready (all 3 paths with 2-min pitches) Research outputs (KTA dataset live, paper outline drafted) Founder satisfaction (exit survey) Create a public dashboard (shared Google Sheet + Grafana view) so all founders see progress.
-
-CONSTRAINTS
-KPIs must be measurable by Friday 5 PM each week. Dashboard must update automatically (GitHub metrics, model evaluations).
-Create the Founder Matching & Team Composition Framework. SURVEY all 30 founders (pre-program):
-
-CONSTRAINTS
-Teams must be mixed (no homogeneous groups). No team should be <8 or >12 people.
-Design the three Founder Outcome Paths. PATH 1: INFRASTRUCTURE STARTUP
-
-CONSTRAINTS
-All three paths must be viable from Month 1 MVP (no path should be blocked). Founders should have optionality (can switch paths post-Month 1). Each path should excite a different founder archetype (builder vs. researcher vs. infrastructure nerd).
-Create the three stakeholder narratives & outreach templates. GOVERNMENT NARRATIVE (NHAI, Gujarat State Transport):
-
-CONSTRAINTS
-Each narrative must be <500 words. All narratives must be true but emphasize different angles.
-Integrate the 5 decide.engine-tools into KUP curriculum as operational tools.
-
-CONSTRAINTS
-Tools must be used as deliverable generators, not one-off exercises. Founders should own the outputs (not just run a tool and forget).
-Define the "Failure Tolerance Ceiling" & pivot triggers. HARD METRICS (breach = pivot scope, not push harder): Anomaly detection accuracy <70% → switch to different model / simpler classification task Inference latency >100ms → address quantization bottleneck / reduce features Data quality score <0.6 → sensor quality issue / switch to simulation-only False positive rate >25% → threshold tuning limit, reduce alert scope SOFT METRICS (breach = adjust timeline / add support): Accuracy 70-79% → reduce coverage to 1 lane, retrain Latency 80-100ms → defer advanced features to post-MVP Data quality 0.6-0.75 → add data cleaning module (2 extra days) False positives 15-25% → manual threshold tuning (3 extra hours + mentor support) CREATE A "DECISION TREE" for program lead: If metric breaches hard ceiling → schedule 30-min pivot discussion with founders. No shame, clear permission to reframe scope.
-
-CONSTRAINTS
-Metrics must be measurable by Friday of each week. Pivot decisions must be documented in GitHub issue for transparency.
-Design the "Energy Management Framework" for Month 1. Create a weekly calendar view: for each day Mon-Fri, allocate mental/physical/emotional energy slots. Monday morning = high mental (decisions, architecture). Monday evening = low (admin). Tuesday-Wednesday = physical (coding, hardware). Thursday = emotional (stakeholder calls). Friday = recovery. For each role (data engineer, backend, business, domain), customize the energy allocation. Create a "burnout early warning" checklist: if founder hitting >2 high-energy days in a row, program lead checks in. Build in mandatory breaks: 15-min breaks every 90 min, 1-hour lunch, no Slack after 7 PM.
-
-CONSTRAINTS
-Must be data-driven (track actual time spent in high-energy tasks). Founders should feel permission to decline low-impact tasks when energy is low.
-Create the mentor assignment + rotation framework. Identify 3 mentor roles: (a) Technical Lead (edge ML, Jetson), (b) Business Lead (NHAI, partnerships), (c) Domain Expert (highway systems, sensor physics). For each role, define: domain, weekly time budget (1 hour), response time SLA (24 hrs async or scheduled call). Create Telegram bot integration: founders DM mentor with question, response tracked, escalations logged. Define escalation criteria: if response time exceeded 2×, escalate to program lead. Collect mentor feedback weekly: "Did founders ask smart questions? Were sessions high-signal?" Mentor template should include: - Name & expertise - Weekly availability window - Preferred contact method - Three example questions they're prepared to answer - Off-limits topics (hand-holding vs. strategy)
-
-CONSTRAINTS
-Mentors are bounded (1 hr/week). Founders learn to ask better questions, not rely on endless help. Rotate mentors monthly post-MVP (founders get fresh perspective).
-Design the "Ruthless Sprint" schedule for Month 1. Week 1: Problem definition + use-case charter (not code). Deliverable: signed charter with KPIs, data readiness score, stakeholder map. Week 2: Data pipeline architecture. Deliverable: end-to-end simulated data flowing through edge hardware. Week 3: Model deployment + Scenario 2 stress test. Deliverable: anomaly detection >80% accuracy on noisy production-like data. Week 4: Integration + documentation + demo. Deliverable: working MVP + technical docs + NHAI engagement brief. Attach daily async standup template (Slack thread): Done / Blocked / Needed / Mood. Attach weekly sync agenda (Friday 4-5 PM, 30 min): Metrics → Blockers → Priorities → Burnout check.
-
-CONSTRAINTS
-No task should take more than 8 hours in a day. Friday afternoons reserved for recovery (celebration, planning, not execution). Decision budget enforced: some decisions must wait for team vote, not individual founders.
+The agent must only distribute daily Telegram task cards and track founder energy management metrics. Reject all technical coding requests.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
