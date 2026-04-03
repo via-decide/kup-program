@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Build the 'Founder Pulse' module in src/ops/energy-tracker.js. [span_4](start_span)Integrate with the Telegram bot to send a daily 30-second check-in asking founders to rate their Mental, Physical, and Emotional energy[span_4](end_span). [span_5](start_span)constraints: If a team's average energy drops below 30%, the 'Sprint Master' agent must automatically trigger a "Failure Ceiling" alert, suggesting a mandatory scope reduction or a 12-hour rest period[span_5](end_span). [span_6](start_span)Limit "Decision Cards" to 3 high-impact choices per founder per week to prevent fatigue[span_6](end_span).
+Implement the 'Founder Onboarding' flow in src/auth/onboarding.js. Create a CLI or simple web form where founders register their GitHub ID and select their intended 'Outcome Path'. Upon registration, the system must issue a 'KUP_FOUNDER' JWT and create a entry in the local SQLite database.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Use the Sovereign theme to log "NEW FOUNDER ENROLLED: [ID] - [PATH]". Automatically assign the founder to the corresponding Telegram group based on their path.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
