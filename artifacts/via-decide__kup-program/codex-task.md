@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Founder Handover Protocol' in src/ops/exit-strategy.js. [span_16](start_span)[span_17](start_span)This module generates the legal and technical "Data-Pack" for each of the three outcome paths, ensuring they have the code, datasets, and partner LOIs needed for independent growth [cite: 27-29].
+Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot must ping each founder every morning on Telegram. It should ask: 1) What was your "Decision Budget" spend yesterday? 2) What is your "Scenario 2" blocker? [span_3](start_span)3) What is your Energy Level (1-10)?[span_3](end_span)
 
 CONSTRAINTS
-Use the Sovereign terminal theme to log "SUCCESSFUL TRANSITION: [PATH NAME] INDEPENDENT". Ensure the 'Sanjiwani' monitoring link remains active as a cross-platform support bridge.
+Use the Sovereign theme to aggregate these responses into a 'Daily Pulse' report for the Program Lead. [span_4](start_span)If a founder reports a 'Decision Budget' > 3, flag them for potential burnout[span_4](end_span).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
