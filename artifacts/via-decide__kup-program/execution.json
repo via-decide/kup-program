@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-program",
   "mode": "codex_then_antigravity",
-  "branch": "simba/build-the-week-1-dispatcher-in-srcnotificationss",
+  "branch": "simba/implement-the-weekly-sync-reporter-in-srcopssync",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

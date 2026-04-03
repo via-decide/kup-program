@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Week 1 Dispatcher' in src/notifications/sprint-cards-w1.js. Program the bot to send the following cards: 1) "Lock Project Scope", 2) "Initialize Digital Twin", and 3) "Draft Brand Positioning". [span_8](start_span)constraints: Each card must include a 'Decision Budget' count of 1. If a founder tries to take on more tasks, the 'Sprint Master' agent must intervene to prevent burnout[span_8](end_span).
+Implement the 'Weekly Sync Reporter' in src/ops/sync-gen.js. Every Thursday at 6:00 PM, this module must aggregate: 1) Total vehicle passages processed, 2) Current model accuracy vs. Temperature drift, 3) Average founder energy levels, and 4) Revenue collected via Hanuman.Solutions.
 
 RULES
 1. Audit touched files first and identify regressions.
