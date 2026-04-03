@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggregate the total 'Decision Budget' spent by all 30 founders in Week 1. Identify the top 3 "High-Fatigue" tasks that slowed down the sprint.
+Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route specific "Path-2 Research" queries to the Academic Mentor and "Path-1 Infrastructure" queries to the Systems Mentor.
 
 CONSTRAINTS
-Generate a "Sovereign Retrospective" report. If a founder's energy is $<40\%$, the 'Sprint Master' must automatically reduce their Week 2 task load by 20% to ensure they hit the Month 1 MVP.
+Limit each founder to exactly 15 minutes of direct "Decision Budget" consultation per week. Use the 'Sprint Master' Telegram bot to enforce the schedule and log "MENTOR SIGNAL ACTIVE".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
