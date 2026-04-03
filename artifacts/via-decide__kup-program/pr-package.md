@@ -1,9 +1,9 @@
-Branch: simba/implement-the-failure-ceiling-audit-in-srcopspiv
-Title: Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggr...
+Branch: simba/build-the-graduation-packager-in-srcopsvault-gen
+Title: Build the 'Graduation Packager' in src/ops/vault-gen.js. For every fo...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggregate the last 48 hours of founder energy logs.
+- Goal: Build the 'Graduation Packager' in src/ops/vault-gen.js. For every founder with an $F_1$-score $> 0.92$, generate a secure ZIP containing their fine-tuned model weights, their 1M passage shards, and their B2B dashboard alpha.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
