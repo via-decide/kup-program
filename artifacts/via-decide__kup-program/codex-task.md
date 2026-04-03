@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Weekly Sync Reporter' in src/ops/sync-gen.js. Every Thursday at 6:00 PM, this module must aggregate: 1) Total vehicle passages processed, 2) Current model accuracy vs. Temperature drift, 3) Average founder energy levels, and 4) Revenue collected via Hanuman.Solutions.
+Implement the 'Mentor Router' in src/ops/mentor-link.js. Create a logic gate that flags specific founder queries in the playground for mentor review based on their Path (Infrastructure, Research, or Edge Platform). [span_11](start_span)constraints: Limit mentor-to-founder interaction to the "1 hour/week" boundary specified in the framework to prevent mentor burnout[span_11](end_span). Use the Sovereign theme to log "MENTOR SIGNAL REQUESTED: [PATH]".
 
 CONSTRAINTS
-Format the output as a "Sovereign Executive Brief" and send it directly to your Telegram 'Sprint Master' group.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
