@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Build the 'Founder Onboarding Packet' generator in src/docs/welcome-packet.js. [cite_start]This script must generate a personalized PDF for each founder that outlines: 1) Their assigned 'Outcome Path', 2) Their 'Decision Budget' (3 choices/week), and 3) The 'Failure Ceiling' pivot rules. [cite: 18, 28-29]
+Create the 'Success State Monitor' in src/analytics/path-goals.js. Develop a service that tracks the 12-month KPIs for all three founder paths.
 
 CONSTRAINTS
-Use the Sovereign theme to highlight the "Jai Hanuman" mission spirit. [cite_start]Ensure the packet explains why "Data Quality > Model Complexity" is the only way to beat the 95% failure rate.[span_0](end_span)
+- [cite_start]Path 1: Monitor highway lane expansion and NHAI revenue.[span_6](end_span) - [span_7](start_span)Path 2: Monitor Hugging Face downloads and academic citations.[span_7](end_span) - [span_8](start_span)Path 3: Monitor SaaS tenant growth and monthly recurring revenue.[span_8](end_span)
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
