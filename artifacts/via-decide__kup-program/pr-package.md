@@ -1,9 +1,9 @@
-Branch: simba/build-the-scope-lock-validator-in-srcopspr-valid
-Title: Build the 'Scope-Lock Validator' in src/ops/pr-validator.js. Create a...
+Branch: simba/create-the-decision-debt-auditor-in-srcopsdebt-r
+Title: Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggrega...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Build the 'Scope-Lock Validator' in src/ops/pr-validator.js. Create a GitHub Action that automatically reviews Week 1 PRs. It must check for: 1) A finalized 'Reference Architecture', 2) A defined 'Scenario 2' failure metric, and 3) A 'Decision Budget' audit for the week.
+- Goal: Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggregate the total 'Decision Budget' spent by all 30 founders in Week 1. Identify the top 3 "High-Fatigue" tasks that slowed down the sprint.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
