@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Founder Onboarding Packet' generator in src/docs/welcome-packet.js. [cite_start]This script must generate a personalized PDF for each founder that outlines: 1) Their assigned 'Outcome Path', 2) Their 'Decision Budget' (3 choices/week), and 3) The 'Failure Ceiling' pivot rules. [cite: 18, 28-29]
+Create the 'Success State Monitor' in src/analytics/path-goals.js. Develop a service that tracks the 12-month KPIs for all three founder paths.
 
 RULES
 1. Audit touched files first and identify regressions.
