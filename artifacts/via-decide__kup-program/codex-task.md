@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Build the 'Ecosystem Manifest Generator' in src/dist/daxini-manifest.js. This script must crawl your src/templates/ folder and generate a standardized metadata file for Daxini.Space. [span_8](start_span)constraints: Each "App" must include a direct link to the LogicHub deployment layer[span_8](end_span). Ensure the manifest includes the "0-Token KUP Founder" bypass logic so the 30 founders can access these tools through the storefront for free.
+Implement the 'Decision Auditor' in src/analytics/decision-audit.js. This module aggregates the 'Decision Budget' logs from all founders to identify which tasks caused the most "Context Rot" or mental fatigue.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Generate a "Sovereign Audit Report" that compares the energy levels of founders across the three paths (Infrastructure, Research, Edge). This data is critical for scaling KUP 2.0.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
