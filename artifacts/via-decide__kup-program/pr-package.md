@@ -1,9 +1,9 @@
-Branch: simba/implement-the-energy-analytics-dashboard-in-srco
-Title: Implement the 'Energy Analytics Dashboard' in src/ops/energy-dashboar...
+Branch: simba/build-the-failure-ceiling-trigger-in-srcopspivot
+Title: Build the 'Failure Ceiling Trigger' in src/ops/pivot-logic.js. Develo...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Energy Analytics Dashboard' in src/ops/energy-dashboard.js. [span_6](start_span)Create a visualization that aggregates daily founder check-ins across three dimensions: Mental, Physical, and Emotional energy[span_6](end_span). [span_7](start_span)[span_8](start_span)constraints: If any team's aggregate score drops below the 30% threshold, the 'Sprint Master' must flag the team for immediate mentor intervention[span_7](end_span)[span_8](end_span). Use the Sovereign theme for high-signal reporting.
+- Goal: Build the 'Failure Ceiling Trigger' in src/ops/pivot-logic.js. Develop a system that monitors 'Task Card' completion rates. [span_11](start_span)[span_12](start_span)If a founder misses three consecutive "Week 3: Scenario 2" recovery milestones, the system must trigger a "Pivot Suggestion"[span_11](end_span)[span_12](end_span). [span_13](start_span)[span_14](start_span)constraints: The 'Sprint Master' agent should then provide 3 pre-vetted scope-reduction options (e.g., reducing the number of simulated lanes) to ensure the Week 4 MVP is still reachable[span_13](end_span)[span_14](end_span).
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
