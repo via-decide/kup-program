@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agent must summarize the 'Revenue Ledger' and 'F1-Score' metrics into a professional 1-page executive summary.
+Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automatically aggregate the 'Hysteresis' logs and 'Thermal-Expansion' math into a formal PDF report.
 
 RULES
 1. Audit touched files first and identify regressions.
