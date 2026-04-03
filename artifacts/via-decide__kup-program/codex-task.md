@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Build the 'Graduation Packager' in src/ops/vault-gen.js. For every founder with an $F_1$-score $> 0.92$, generate a secure ZIP containing their fine-tuned model weights, their 1M passage shards, and their B2B dashboard alpha.
+Create the 'Grand Pilot Auditor' in src/ops/final-audit.js. Score each of the 30 founders based on: 1) $F_1$-Score in S2 Heat, 2) Token Efficiency (Goal: >90%), and 3) Decision Budget Discipline.
 
 CONSTRAINTS
-Use the 'Sprint Master' agent to send a final "Sovereign Certification" via Telegram once the vault is ready.
+- Founders with a score < 0.8 are automatically assigned to the "Refinement" track. - The top 5 founders are flagged as "Site-Ready" for the NH-41 physical sensor sync.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
