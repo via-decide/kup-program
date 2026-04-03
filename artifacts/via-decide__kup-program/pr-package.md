@@ -1,9 +1,9 @@
-Branch: simba/implement-milestone-gates-in-srcopspath-graduati
-Title: Implement 'Milestone Gates' in src/ops/path-graduation.js. Create a c...
+Branch: simba/build-the-ecosystem-manifest-generator-in-srcdis
+Title: Build the 'Ecosystem Manifest Generator' in src/dist/daxini-manifest....
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement 'Milestone Gates' in src/ops/path-graduation.js. Create a checklist system for Week 4 that verifies: 1) >80% model accuracy on Scenario 2 data, 2) Successfully completed Jetson Orin deployment, and 3) A drafted research abstract or business pitch.
+- Goal: Build the 'Ecosystem Manifest Generator' in src/dist/daxini-manifest.js. This script must crawl your src/templates/ folder and generate a standardized metadata file for Daxini.Space. [span_8](start_span)constraints: Each "App" must include a direct link to the LogicHub deployment layer[span_8](end_span). Ensure the manifest includes the "0-Token KUP Founder" bypass logic so the 30 founders can access these tools through the storefront for free.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
