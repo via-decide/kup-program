@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route specific "Path-2 Research" queries to the Academic Mentor and "Path-1 Infrastructure" queries to the Systems Mentor.
+Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggregate the last 48 hours of founder energy logs.
 
 CONSTRAINTS
-Limit each founder to exactly 15 minutes of direct "Decision Budget" consultation per week. Use the 'Sprint Master' Telegram bot to enforce the schedule and log "MENTOR SIGNAL ACTIVE".
+If a founder's 'Mental Energy' is $<3$ or 'Drift Recovery' has failed for 3 consecutive shards, the 'Sprint Master' must automatically trigger a "Mandatory Scope Reduction" card, moving them from "Full Anomaly Detection" to "Simple Blowout Prediction."
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
