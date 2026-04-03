@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Success State Monitor' in src/analytics/path-goals.js. Develop a service that tracks the 12-month KPIs for all three founder paths.
+Implement the 'KUP-Pulse' collector in src/ops/pulse-monitor.js. Create a Telegram-integrated check-in that asks founders for: 1) Mental Energy (1-10), 2) Physical Energy (1-10), and 3) Decisions Made Today.
 
 CONSTRAINTS
-- [cite_start]Path 1: Monitor highway lane expansion and NHAI revenue.[span_6](end_span) - [span_7](start_span)Path 2: Monitor Hugging Face downloads and academic citations.[span_7](end_span) - [span_8](start_span)Path 3: Monitor SaaS tenant growth and monthly recurring revenue.[span_8](end_span)
+Use the Sovereign theme for terminal logging. If a founder's 'Decision Budget' exceeds 3 per week, the 'Sprint Master' agent must flag them for a mandatory "Scope Reduction" review.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

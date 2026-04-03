@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-program",
   "mode": "codex_then_antigravity",
-  "branch": "simba/create-the-success-state-monitor-in-srcanalytics",
+  "branch": "simba/implement-the-kup-pulse-collector-in-srcopspulse",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",
