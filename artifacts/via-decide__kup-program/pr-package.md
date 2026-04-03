@@ -1,9 +1,9 @@
-Branch: simba/create-the-graduation-handover-service-in-srcops
-Title: Create the 'Graduation Handover' service in src/ops/graduation.js. Fo...
+Branch: simba/build-the-morale-engine-in-srcopsspirit-botjs-ba
+Title: Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Create the 'Graduation Handover' service in src/ops/graduation.js. For every founder who passes the 'Milestone Gates', generate a "Sovereign IP Pack" containing: 1) Their fine-tuned Vora model weights, 2) Their 1-km site topology, and 3) Their drafted Research/Grant proposals.
+- Goal: Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP-Pulse' energy levels, the bot should send automated, path-specific encouragement. If a Research Path founder gets a "Paper Rejected" simulation, the bot should provide a "Sovereign Pivot" pep talk.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
