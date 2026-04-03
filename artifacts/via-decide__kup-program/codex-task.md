@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Mentor Router' in src/ops/mentor-link.js. Create a logic gate that flags specific founder queries in the playground for mentor review based on their Path (Infrastructure, Research, or Edge Platform). [span_11](start_span)constraints: Limit mentor-to-founder interaction to the "1 hour/week" boundary specified in the framework to prevent mentor burnout[span_11](end_span). Use the Sovereign theme to log "MENTOR SIGNAL REQUESTED: [PATH]".
+Implement 'Milestone Gates' in src/ops/path-graduation.js. Create a checklist system for Week 4 that verifies: 1) >80% model accuracy on Scenario 2 data, 2) Successfully completed Jetson Orin deployment, and 3) A drafted research abstract or business pitch.
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Founders cannot "graduate" to Path 1, 2, or 3 until all Week 1-4 task cards are marked as complete in the database. Use the Sovereign theme to log "PATH ELIGIBILITY VERIFIED: [FOUNDER_ID]".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
