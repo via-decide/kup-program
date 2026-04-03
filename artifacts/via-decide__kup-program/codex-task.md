@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Build the 'Scope-Lock Validator' in src/ops/pr-validator.js. Create a GitHub Action that automatically reviews Week 1 PRs. It must check for: 1) A finalized 'Reference Architecture', 2) A defined 'Scenario 2' failure metric, and 3) A 'Decision Budget' audit for the week.
+Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggregate the total 'Decision Budget' spent by all 30 founders in Week 1. Identify the top 3 "High-Fatigue" tasks that slowed down the sprint.
 
 CONSTRAINTS
-If the PR includes "New Features" not discussed in the original brief, the 'Quality Reviewer' agent must reject it with the message: "DEFENDING THE FAILURE CEILING. LOCK SCOPE, DON'T EXPAND."
+Generate a "Sovereign Retrospective" report. If a founder's energy is $<40\%$, the 'Sprint Master' must automatically reduce their Week 2 task load by 20% to ensure they hit the Month 1 MVP.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
