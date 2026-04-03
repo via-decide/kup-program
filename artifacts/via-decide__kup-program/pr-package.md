@@ -1,9 +1,9 @@
-Branch: simba/implement-the-governor-agent-in-srcopsfleet-moni
-Title: Implement the 'Governor-Agent' in src/ops/fleet-monitor.js. Create a ...
+Branch: simba/build-the-shadow-ceo-agent-in-srcagentsbusiness-
+Title: Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agen...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Governor-Agent' in src/ops/fleet-monitor.js. Create a central dashboard that pings the 30 founder endpoints to verify their Kalman Filter stability and Token Efficiency.
+- Goal: Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agent must summarize the 'Revenue Ledger' and 'F1-Score' metrics into a professional 1-page executive summary.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

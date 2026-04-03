@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Governor-Agent' in src/ops/fleet-monitor.js. Create a central dashboard that pings the 30 founder endpoints to verify their Kalman Filter stability and Token Efficiency.
+Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agent must summarize the 'Revenue Ledger' and 'F1-Score' metrics into a professional 1-page executive summary.
 
 CONSTRAINTS
-- If a founder's F1-score drops below 0.90, the Governor must automatically send a "Resilience Warning" via Telegram. - Log "FLEET STATUS: SOVEREIGN" in the terminal.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
