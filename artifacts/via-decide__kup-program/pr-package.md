@@ -1,9 +1,9 @@
-Branch: simba/create-the-compliance-sentinel-in-srcopsnhai-han
-Title: Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automat...
+Branch: simba/execute-the-production-hardening-script-in-srcop
+Title: Execute the 'Production-Hardening' script in src/ops/finalize-release...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automatically aggregate the 'Hysteresis' logs and 'Thermal-Expansion' math into a formal PDF report.
+- Goal: Execute the 'Production-Hardening' script in src/ops/finalize-release.js. Strip debug logs, minify edge assets, and generate the 'Sovereign v1.0' API documentation.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
