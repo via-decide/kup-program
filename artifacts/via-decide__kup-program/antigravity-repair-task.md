@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Grand Pilot Auditor' in src/ops/final-audit.js. Score each of the 30 founders based on: 1) $F_1$-Score in S2 Heat, 2) Token Efficiency (Goal: >90%), and 3) Decision Budget Discipline.
+Implement the 'IP Vault Generator' in src/ops/graduation-vault.js. For every founder who achieved an F1-score > 0.92, package: 1) Their fine-tuned Vora weights, 2) Their 'Scenario 2' recovery logs, and 3) A cryptographically signed 'Sovereign Lab Certificate.'
 
 RULES
 1. Audit touched files first and identify regressions.
