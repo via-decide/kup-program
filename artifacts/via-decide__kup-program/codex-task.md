@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggregate the last 48 hours of founder energy logs.
+Build the 'Graduation Packager' in src/ops/vault-gen.js. For every founder with an $F_1$-score $> 0.92$, generate a secure ZIP containing their fine-tuned model weights, their 1M passage shards, and their B2B dashboard alpha.
 
 CONSTRAINTS
-If a founder's 'Mental Energy' is $<3$ or 'Drift Recovery' has failed for 3 consecutive shards, the 'Sprint Master' must automatically trigger a "Mandatory Scope Reduction" card, moving them from "Full Anomaly Detection" to "Simple Blowout Prediction."
+Use the 'Sprint Master' agent to send a final "Sovereign Certification" via Telegram once the vault is ready.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.

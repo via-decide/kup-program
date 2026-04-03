@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggregate the last 48 hours of founder energy logs.
+Build the 'Graduation Packager' in src/ops/vault-gen.js. For every founder with an $F_1$-score $> 0.92$, generate a secure ZIP containing their fine-tuned model weights, their 1M passage shards, and their B2B dashboard alpha.
 
 RULES
 1. Audit touched files first and identify regressions.
