@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Task Dispatcher' in src/notifications/telegram-manager.js. Connect the backend to a Telegram Bot API. [span_7](start_span)[span_8](start_span)Create a function that sends "Week 1-4 Task Cards" to founders based on their outcome path (Infrastructure, Research, or Edge Platform)[span_7](end_span)[span_8](end_span).
+Create the 'Outcome Path Manager' in src/teams/path-selector.js. Implement a logic gate that assigns specific "Advanced Task Cards" to founders based on their chosen path.
 
 CONSTRAINTS
-The messages must include a direct link to the corresponding Agent Template on the daxini.xyz playground. [span_9](start_span)Use a "Decision Budget" tracker to ensure founders aren't overwhelmed with too many tasks per day[span_9](end_span).
+- [span_16](start_span)Path 1 (Infrastructure) gets NHAI pilot deployment tasks[span_16](end_span). - [span_17](start_span)Path 2 (Research) gets Hugging Face and Paper drafting tasks[span_17](end_span). - [span_18](start_span)Path 3 (Edge Platform) gets SaaS MVP and GitHub Star-growth tasks[span_18](end_span).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
