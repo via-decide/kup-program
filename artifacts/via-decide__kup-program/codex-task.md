@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create 'The Sprint Master' Agent Template in src/templates/sprint-master.json. Configure the system prompt to enforce the 4-week "Ruthless Sprint" timeline and manage founder decision budgets.
+Implement the 'Task Dispatcher' in src/notifications/telegram-manager.js. Connect the backend to a Telegram Bot API. [span_7](start_span)[span_8](start_span)Create a function that sends "Week 1-4 Task Cards" to founders based on their outcome path (Infrastructure, Research, or Edge Platform)[span_7](end_span)[span_8](end_span).
 
 CONSTRAINTS
-The agent must only distribute daily Telegram task cards and track founder energy management metrics. Reject all technical coding requests.
+The messages must include a direct link to the corresponding Agent Template on the daxini.xyz playground. [span_9](start_span)Use a "Decision Budget" tracker to ensure founders aren't overwhelmed with too many tasks per day[span_9](end_span).
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
