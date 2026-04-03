@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'High-Signal KPI Dashboard' in src/ops/dashboard-viz.js. [span_6](start_span)This dashboard must track: 1) Total simulated vehicle passages (Target: 1M), 2) Average model accuracy across all 30 founders (Target: >80%), and 3) Research citations/Hugging Face downloads [cite: 16-17, 21].
+Implement the 'Pivot Trigger Monitor' in src/ops/pivot-monitor.js. [span_24](start_span)[span_25](start_span)This service tracks a team's progress against the "Week 3 Friday" Scenario 2 recovery.[span_24](end_span)[span_25](end_span) [span_26](start_span)If accuracy remains below 80% for 48 hours, it must trigger a "Permission to Pivot" alert to the founder.[span_26](end_span) [span_27](start_span)[span_28](start_span)constraints: The 'Sprint Master' agent must provide three pre-vetted scope-reduction options to the team to ensure they still reach a Month 1 MVP.[span_27](end_span)[span_28](end_span)
 
 RULES
 1. Audit touched files first and identify regressions.
