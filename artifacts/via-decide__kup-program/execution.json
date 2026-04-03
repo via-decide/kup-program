@@ -1,7 +1,7 @@
 {
   "repo": "via-decide/kup-program",
   "mode": "codex_then_antigravity",
-  "branch": "simba/implement-milestone-gates-in-srcopspath-graduati",
+  "branch": "simba/build-the-ecosystem-manifest-generator-in-srcdis",
   "files_to_create": [
     "codex-task.md",
     "antigravity-repair-task.md",

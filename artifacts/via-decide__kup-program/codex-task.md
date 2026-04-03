@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement 'Milestone Gates' in src/ops/path-graduation.js. Create a checklist system for Week 4 that verifies: 1) >80% model accuracy on Scenario 2 data, 2) Successfully completed Jetson Orin deployment, and 3) A drafted research abstract or business pitch.
+Build the 'Ecosystem Manifest Generator' in src/dist/daxini-manifest.js. This script must crawl your src/templates/ folder and generate a standardized metadata file for Daxini.Space. [span_8](start_span)constraints: Each "App" must include a direct link to the LogicHub deployment layer[span_8](end_span). Ensure the manifest includes the "0-Token KUP Founder" bypass logic so the 30 founders can access these tools through the storefront for free.
 
 CONSTRAINTS
-Founders cannot "graduate" to Path 1, 2, or 3 until all Week 1-4 task cards are marked as complete in the database. Use the Sovereign theme to log "PATH ELIGIBILITY VERIFIED: [FOUNDER_ID]".
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
