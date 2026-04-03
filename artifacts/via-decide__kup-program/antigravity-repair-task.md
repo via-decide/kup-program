@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'IP Vault Generator' in src/ops/graduation-vault.js. For every founder who achieved an F1-score > 0.92, package: 1) Their fine-tuned Vora weights, 2) Their 'Scenario 2' recovery logs, and 3) A cryptographically signed 'Sovereign Lab Certificate.'
+Implement the 'Governor-Agent' in src/ops/fleet-monitor.js. Create a central dashboard that pings the 30 founder endpoints to verify their Kalman Filter stability and Token Efficiency.
 
 RULES
 1. Audit touched files first and identify regressions.
