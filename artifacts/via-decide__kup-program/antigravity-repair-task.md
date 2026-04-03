@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggregate the total 'Decision Budget' spent by all 30 founders in Week 1. Identify the top 3 "High-Fatigue" tasks that slowed down the sprint.
+Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route specific "Path-2 Research" queries to the Academic Mentor and "Path-1 Infrastructure" queries to the Systems Mentor.
 
 RULES
 1. Audit touched files first and identify regressions.
