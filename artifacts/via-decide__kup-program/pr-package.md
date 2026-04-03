@@ -1,9 +1,9 @@
-Branch: simba/create-the-decision-debt-auditor-in-srcopsdebt-r
-Title: Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggrega...
+Branch: simba/create-the-mentor-dispatcher-in-srcopsmentor-syn
+Title: Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route speci...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Create the 'Decision Debt Auditor' in src/ops/debt-review.js. Aggregate the total 'Decision Budget' spent by all 30 founders in Week 1. Identify the top 3 "High-Fatigue" tasks that slowed down the sprint.
+- Goal: Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route specific "Path-2 Research" queries to the Academic Mentor and "Path-1 Infrastructure" queries to the Systems Mentor.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
