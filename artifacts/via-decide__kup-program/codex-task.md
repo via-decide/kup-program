@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'IP Vault Generator' in src/ops/graduation-vault.js. For every founder who achieved an F1-score > 0.92, package: 1) Their fine-tuned Vora weights, 2) Their 'Scenario 2' recovery logs, and 3) A cryptographically signed 'Sovereign Lab Certificate.'
+Implement the 'Governor-Agent' in src/ops/fleet-monitor.js. Create a central dashboard that pings the 30 founder endpoints to verify their Kalman Filter stability and Token Efficiency.
 
 CONSTRAINTS
-- Use the 'Sovereign' theme for the certificate UI. - Log "FOUNDER [ID] GRADUATED | IP SECURED" in the terminal. - Automatically revoke their 'Lab-Admin' access to the central Mac Mini as they move to their own instances.
+- If a founder's F1-score drops below 0.90, the Governor must automatically send a "Resilience Warning" via Telegram. - Log "FLEET STATUS: SOVEREIGN" in the terminal.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
