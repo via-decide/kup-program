@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Execute the 'Production-Hardening' script in src/ops/finalize-release.js. Strip debug logs, minify edge assets, and generate the 'Sovereign v1.0' API documentation.
+Implement the 'Founder Execution Engine' in src/founder/coordination-engine.js.
 
 CONSTRAINTS
-- Automate the generation of a 'Terms of Service' (ToS) that enforces the ONDC settlement rules. - Log "SYSTEM GRADUATED: KUP-AI-STACK_V1.0_PROD_READY".
+- Coordinate execution between 30 founder threads. - Each founder thread must process tasks without state collision. - Implement distributed lock mechanism using: Lock_state = Hash(Thread_ID + Task_ID) - Achieve sub-5ms arbitration latency. - Log "FOUNDER_NETWORK: COORDINATED_EXECUTION_ACTIVE".
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
@@ -17,7 +17,7 @@ PROCESS (MANDATORY)
 
 REPO AUDIT CONTEXT
 - Description: 
-- Primary language: unknown
+- Primary language: JavaScript
 - README snippet:
 # kup-program
 

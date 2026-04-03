@@ -1,9 +1,9 @@
-Branch: simba/execute-the-production-hardening-script-in-srcop
-Title: Execute the 'Production-Hardening' script in src/ops/finalize-release...
+Branch: simba/implement-the-founder-execution-engine-in-srcfou
+Title: Implement the 'Founder Execution Engine' in src/founder/coordination-...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Execute the 'Production-Hardening' script in src/ops/finalize-release.js. Strip debug logs, minify edge assets, and generate the 'Sovereign v1.0' API documentation.
+- Goal: Implement the 'Founder Execution Engine' in src/founder/coordination-engine.js.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests

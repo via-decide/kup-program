@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Execute the 'Production-Hardening' script in src/ops/finalize-release.js. Strip debug logs, minify edge assets, and generate the 'Sovereign v1.0' API documentation.
+Implement the 'Founder Execution Engine' in src/founder/coordination-engine.js.
 
 RULES
 1. Audit touched files first and identify regressions.
