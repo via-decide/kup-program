@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Pivot Trigger Monitor' in src/ops/pivot-monitor.js. [span_24](start_span)[span_25](start_span)This service tracks a team's progress against the "Week 3 Friday" Scenario 2 recovery.[span_24](end_span)[span_25](end_span) [span_26](start_span)If accuracy remains below 80% for 48 hours, it must trigger a "Permission to Pivot" alert to the founder.[span_26](end_span) [span_27](start_span)[span_28](start_span)constraints: The 'Sprint Master' agent must provide three pre-vetted scope-reduction options to the team to ensure they still reach a Month 1 MVP.[span_27](end_span)[span_28](end_span)
+Build the 'Founder Onboarding Packet' generator in src/docs/welcome-packet.js. [cite_start]This script must generate a personalized PDF for each founder that outlines: 1) Their assigned 'Outcome Path', 2) Their 'Decision Budget' (3 choices/week), and 3) The 'Failure Ceiling' pivot rules. [cite: 18, 28-29]
 
 CONSTRAINTS
-Preserve existing code; prefer additive changes.
+Use the Sovereign theme to highlight the "Jai Hanuman" mission spirit. [cite_start]Ensure the packet explains why "Data Quality > Model Complexity" is the only way to beat the 95% failure rate.[span_0](end_span)
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
