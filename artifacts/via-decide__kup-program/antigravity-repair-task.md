@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Create the 'Weekly Sync Reporter' in src/ops/friday-sync.js. Aggregate the following: 1) Total 'Scenario 2' recoveries, 2) Median Founder Energy, 3) Revenue/Grant prospects logged, and 4) Jetson-Inference Benchmarks.
+Create the 'Graduation Handover' service in src/ops/graduation.js. For every founder who passes the 'Milestone Gates', generate a "Sovereign IP Pack" containing: 1) Their fine-tuned Vora model weights, 2) Their 1-km site topology, and 3) Their drafted Research/Grant proposals.
 
 RULES
 1. Audit touched files first and identify regressions.
