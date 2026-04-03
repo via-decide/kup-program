@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Create the 'Grand Pilot Auditor' in src/ops/final-audit.js. Score each of the 30 founders based on: 1) $F_1$-Score in S2 Heat, 2) Token Efficiency (Goal: >90%), and 3) Decision Budget Discipline.
+Implement the 'IP Vault Generator' in src/ops/graduation-vault.js. For every founder who achieved an F1-score > 0.92, package: 1) Their fine-tuned Vora weights, 2) Their 'Scenario 2' recovery logs, and 3) A cryptographically signed 'Sovereign Lab Certificate.'
 
 CONSTRAINTS
-- Founders with a score < 0.8 are automatically assigned to the "Refinement" track. - The top 5 founders are flagged as "Site-Ready" for the NH-41 physical sensor sync.
+- Use the 'Sovereign' theme for the certificate UI. - Log "FOUNDER [ID] GRADUATED | IP SECURED" in the terminal. - Automatically revoke their 'Lab-Admin' access to the central Mac Mini as they move to their own instances.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
