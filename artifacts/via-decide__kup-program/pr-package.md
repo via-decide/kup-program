@@ -1,9 +1,9 @@
-Branch: simba/build-the-founder-onboarding-packet-generator-in
-Title: Build the 'Founder Onboarding Packet' generator in src/docs/welcome-p...
+Branch: simba/create-the-success-state-monitor-in-srcanalytics
+Title: Create the 'Success State Monitor' in src/analytics/path-goals.js. De...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Build the 'Founder Onboarding Packet' generator in src/docs/welcome-packet.js. [cite_start]This script must generate a personalized PDF for each founder that outlines: 1) Their assigned 'Outcome Path', 2) Their 'Decision Budget' (3 choices/week), and 3) The 'Failure Ceiling' pivot rules. [cite: 18, 28-29]
+- Goal: Create the 'Success State Monitor' in src/analytics/path-goals.js. Develop a service that tracks the 12-month KPIs for all three founder paths.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
