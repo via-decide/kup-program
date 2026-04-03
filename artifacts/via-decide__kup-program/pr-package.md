@@ -1,9 +1,9 @@
-Branch: simba/create-the-mentor-dispatcher-in-srcopsmentor-syn
-Title: Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route speci...
+Branch: simba/implement-the-failure-ceiling-audit-in-srcopspiv
+Title: Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggr...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Create the 'Mentor Dispatcher' in src/ops/mentor-sync.js. Route specific "Path-2 Research" queries to the Academic Mentor and "Path-1 Infrastructure" queries to the Systems Mentor.
+- Goal: Implement the 'Failure Ceiling Audit' in src/ops/pivot-logic.js. Aggregate the last 48 hours of founder energy logs.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
