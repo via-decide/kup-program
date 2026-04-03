@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Decision Auditor' in src/analytics/decision-audit.js. This module aggregates the 'Decision Budget' logs from all founders to identify which tasks caused the most "Context Rot" or mental fatigue.
+Implement the 'Energy Analytics Dashboard' in src/ops/energy-dashboard.js. [span_6](start_span)Create a visualization that aggregates daily founder check-ins across three dimensions: Mental, Physical, and Emotional energy[span_6](end_span). [span_7](start_span)[span_8](start_span)constraints: If any team's aggregate score drops below the 30% threshold, the 'Sprint Master' must flag the team for immediate mentor intervention[span_7](end_span)[span_8](end_span). Use the Sovereign theme for high-signal reporting.
 
 CONSTRAINTS
-Generate a "Sovereign Audit Report" that compares the energy levels of founders across the three paths (Infrastructure, Research, Edge). This data is critical for scaling KUP 2.0.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
