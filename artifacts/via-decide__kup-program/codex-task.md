@@ -1,10 +1,10 @@
 You are working in repository via-decide/kup-program on branch main.
 
 MISSION
-Implement the 'Founder Onboarding' flow in src/auth/onboarding.js. Create a CLI or simple web form where founders register their GitHub ID and select their intended 'Outcome Path'. Upon registration, the system must issue a 'KUP_FOUNDER' JWT and create a entry in the local SQLite database.
+Build the 'Week 1 Dispatcher' in src/notifications/sprint-cards-w1.js. Program the bot to send the following cards: 1) "Lock Project Scope", 2) "Initialize Digital Twin", and 3) "Draft Brand Positioning". [span_8](start_span)constraints: Each card must include a 'Decision Budget' count of 1. If a founder tries to take on more tasks, the 'Sprint Master' agent must intervene to prevent burnout[span_8](end_span).
 
 CONSTRAINTS
-Use the Sovereign theme to log "NEW FOUNDER ENROLLED: [ID] - [PATH]". Automatically assign the founder to the corresponding Telegram group based on their path.
+Preserve existing code; prefer additive changes.
 
 PROCESS (MANDATORY)
 1. Read README.md and AGENTS.md before editing.
