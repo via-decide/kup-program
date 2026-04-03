@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Build the 'Morale Engine' in src/ops/spirit-bot.js. Based on the 'KUP-Pulse' energy levels, the bot should send automated, path-specific encouragement. If a Research Path founder gets a "Paper Rejected" simulation, the bot should provide a "Sovereign Pivot" pep talk.
+Build the 'Shadow-Bill Dispatcher' in src/ops/shadow-billing.js. At 9:00 PM IST daily, calculate the total tokens used by each founder and multiply by the standard Zayvora rate. Send a Telegram message: "Today's Compute Value: ₹[X]. Your Cost: ₹0. (Don't waste the mission's energy)."
 
 RULES
 1. Audit touched files first and identify regressions.
