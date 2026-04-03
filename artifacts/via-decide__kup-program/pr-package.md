@@ -1,9 +1,9 @@
-Branch: simba/build-the-shadow-ceo-agent-in-srcagentsbusiness-
-Title: Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agen...
+Branch: simba/create-the-compliance-sentinel-in-srcopsnhai-han
+Title: Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automat...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agent must summarize the 'Revenue Ledger' and 'F1-Score' metrics into a professional 1-page executive summary.
+- Goal: Create the 'Compliance-Sentinel' in src/ops/nhai-handover.js. Automatically aggregate the 'Hysteresis' logs and 'Thermal-Expansion' math into a formal PDF report.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
