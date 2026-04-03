@@ -1,9 +1,9 @@
-Branch: simba/implement-the-mentor-router-in-srcopsmentor-link
-Title: Implement the 'Mentor Router' in src/ops/mentor-link.js. Create a log...
+Branch: simba/implement-milestone-gates-in-srcopspath-graduati
+Title: Implement 'Milestone Gates' in src/ops/path-graduation.js. Create a c...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Mentor Router' in src/ops/mentor-link.js. Create a logic gate that flags specific founder queries in the playground for mentor review based on their Path (Infrastructure, Research, or Edge Platform). [span_11](start_span)constraints: Limit mentor-to-founder interaction to the "1 hour/week" boundary specified in the framework to prevent mentor burnout[span_11](end_span). Use the Sovereign theme to log "MENTOR SIGNAL REQUESTED: [PATH]".
+- Goal: Implement 'Milestone Gates' in src/ops/path-graduation.js. Create a checklist system for Week 4 that verifies: 1) >80% model accuracy on Scenario 2 data, 2) Successfully completed Jetson Orin deployment, and 3) A drafted research abstract or business pitch.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
