@@ -4,7 +4,7 @@ TARGET
 Validate and repair only the files touched by the previous implementation.
 
 TASK
-Implement the 'Governor-Agent' in src/ops/fleet-monitor.js. Create a central dashboard that pings the 30 founder endpoints to verify their Kalman Filter stability and Token Efficiency.
+Build the 'Shadow CEO' Agent in src/agents/business-ops.js. This agent must summarize the 'Revenue Ledger' and 'F1-Score' metrics into a professional 1-page executive summary.
 
 RULES
 1. Audit touched files first and identify regressions.
