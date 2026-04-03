@@ -1,9 +1,9 @@
-Branch: simba/build-the-ecosystem-manifest-generator-in-srcdis
-Title: Build the 'Ecosystem Manifest Generator' in src/dist/daxini-manifest....
+Branch: simba/implement-the-decision-auditor-in-srcanalyticsde
+Title: Implement the 'Decision Auditor' in src/analytics/decision-audit.js. ...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Build the 'Ecosystem Manifest Generator' in src/dist/daxini-manifest.js. This script must crawl your src/templates/ folder and generate a standardized metadata file for Daxini.Space. [span_8](start_span)constraints: Each "App" must include a direct link to the LogicHub deployment layer[span_8](end_span). Ensure the manifest includes the "0-Token KUP Founder" bypass logic so the 30 founders can access these tools through the storefront for free.
+- Goal: Implement the 'Decision Auditor' in src/analytics/decision-audit.js. This module aggregates the 'Decision Budget' logs from all founders to identify which tasks caused the most "Context Rot" or mental fatigue.
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
