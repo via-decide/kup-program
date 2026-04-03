@@ -1,9 +1,9 @@
-Branch: simba/implement-the-founder-handover-protocol-in-srcop
-Title: Implement the 'Founder Handover Protocol' in src/ops/exit-strategy.js...
+Branch: simba/implement-the-daily-standup-bot-in-srcopsstandup
+Title: Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot...
 
 ## Summary
 - Repo orchestration task for via-decide/kup-program
-- Goal: Implement the 'Founder Handover Protocol' in src/ops/exit-strategy.js. [span_16](start_span)[span_17](start_span)This module generates the legal and technical "Data-Pack" for each of the three outcome paths, ensuring they have the code, datasets, and partner LOIs needed for independent growth [cite: 27-29].
+- Goal: Implement the 'Daily Standup Bot' in src/ops/standup-bot.js. This bot must ping each founder every morning on Telegram. It should ask: 1) What was your "Decision Budget" spend yesterday? 2) What is your "Scenario 2" blocker? [span_3](start_span)3) What is your Energy Level (1-10)?[span_3](end_span)
 
 ## Testing Checklist
 - [ ] Run unit/integration tests
