@@ -51,7 +51,8 @@ function buildPatch(context, hint) {
 function decide(context) {
   const safeContext = context && typeof context === 'object' ? context : {};
   const failureRate = isFiniteNumber(safeContext.failureRate) ? safeContext.failureRate : 0;
-  const latency = isFiniteNumber(safeContext.latency) ? safeContext.latency : null;
+  const latency = isFiniteNumber(safeContext.avgLatency) ? safeContext.avgLatency : (isFiniteNumber(safeContext.latency) ? safeContext.latency : null);
+  const throughputPerMin = isFiniteNumber(safeContext.throughputPerMin) ? safeContext.throughputPerMin : null;
   const threshold = toLatencyThreshold(safeContext);
   const repeatedFailure = hasRepeatedFailure(safeContext);
 
@@ -79,7 +80,7 @@ function decide(context) {
     };
   }
 
-  if (isSuccess(safeContext.lastResult) && failureRate === 0) {
+  if (isSuccess(safeContext.lastResult) && failureRate === 0 && (throughputPerMin === null || throughputPerMin >= 1)) {
     return {
       action: ACTIONS.NEXT_EXPERIMENT,
       reason: 'Last result succeeded and current failure rate is stable at 0.',
